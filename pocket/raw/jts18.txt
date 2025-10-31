@@ -14,8 +14,15 @@ Bloxeed (Japan) (FD1094 317-0139) --> bloxeed.rom
 Bloxeed (Japan, earlier) (FD1094 317-0139) --> bloxeeda.rom
 Clutch Hitter (US) (FD1094 317-0176) --> cltchitr.rom
 Clutch Hitter (Japan) (FD1094 317-0175) --> cltchitrj.rom
+D. D. Crew (World, 3 Players) (FD1094 317-0190) --> ddcrew.rom
+D. D. Crew (World, 4 Players) (FD1094 317-0187) --> ddcrew1.rom
+D. D. Crew (World, 2 Players) (FD1094 317-0184) --> ddcrew2.rom
+D. D. Crew (Japan, 4 Players) (FD1094 317-0185) --> ddcrewj.rom
+D. D. Crew (Japan, 2 Players) (FD1094 317-0182) --> ddcrewj2.rom
+D. D. Crew (US, 4 Players) (FD1094 317-0186) --> ddcrewu.rom
 Desert Breaker (World) (FD1094 317-0196) --> desertbr.rom
 Desert Breaker (Japan) (FD1094 317-0194) --> desertbrj.rom
+Hammer Away (Japan, prototype) --> hamaway.rom
 Laser Ghost (World) (FD1094 317-0166) --> lghost.rom
 Laser Ghost (Japan) (FD1094 317-0164) --> lghostj.rom
 Laser Ghost (US) (FD1094 317-0165) --> lghostu.rom

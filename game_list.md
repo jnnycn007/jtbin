@@ -919,8 +919,15 @@
 | s18     | Clockwork Aquario (prototype)                                                              | aquario       |
 | s18     | Clutch Hitter (Japan) (FD1094 317-0175)                                                    | cltchitrj     |
 | s18     | Clutch Hitter (US) (FD1094 317-0176)                                                       | cltchitr      |
+| s18     | D. D. Crew (Japan, 2 Players) (FD1094 317-0182)                                            | ddcrewj2      |
+| s18     | D. D. Crew (Japan, 4 Players) (FD1094 317-0185)                                            | ddcrewj       |
+| s18     | D. D. Crew (US, 4 Players) (FD1094 317-0186)                                               | ddcrewu       |
+| s18     | D. D. Crew (World, 2 Players) (FD1094 317-0184)                                            | ddcrew2       |
+| s18     | D. D. Crew (World, 3 Players) (FD1094 317-0190)                                            | ddcrew        |
+| s18     | D. D. Crew (World, 4 Players) (FD1094 317-0187)                                            | ddcrew1       |
 | s18     | Desert Breaker (Japan) (FD1094 317-0194)                                                   | desertbrj     |
 | s18     | Desert Breaker (World) (FD1094 317-0196)                                                   | desertbr      |
+| s18     | Hammer Away (Japan, prototype)                                                             | hamaway       |
 | s18     | Laser Ghost (Japan) (FD1094 317-0164)                                                      | lghostj       |
 | s18     | Laser Ghost (US) (FD1094 317-0165)                                                         | lghostu       |
 | s18     | Laser Ghost (World) (FD1094 317-0166)                                                      | lghost        |
@@ -1127,4 +1134,4 @@
 | yiear   | Yie Ar Kung-Fu (program code G)                                                            | yiear2        |
 | yiear   | Yie Ar Kung-Fu (program code I)                                                            | yiear         |
 
-71 cores, supporting 1126 games
+71 cores, supporting 1133 games

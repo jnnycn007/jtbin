@@ -218,6 +218,12 @@
 | daimakair    | jtcps1     | 657537b03050f067686496586e9aee76 | 7f,ff,ff     |
 | dangseed     | jtshouse   | 4b11abbde769d6753c21c9f76f01ef07 | ff           |
 | darkadv      | jttwin16   | 9770658c0ce771f5e3f2177cc6f0df20 | ff,5e,ff     |
+| ddcrew       | jts18      | bc371e3f607219f8168af052a9d5340c | ff,f7        |
+| ddcrew1      | jts18      | be760b24fc14145608a37fb61dacf30f | ff,f7        |
+| ddcrew2      | jts18      | 4b29ab226535b6fc12a0e792cebea222 | ff,f7        |
+| ddcrewj      | jts18      | 23de3c45f06ab53bc4fedcd4ce75cb38 | ff,f7        |
+| ddcrewj2     | jts18      | 6ee32091582b20a8ec76c5f6151b0be2 | ff,f7        |
+| ddcrewu      | jts18      | 026633210659b10ca7ed0668e5122524 | ff,f7        |
 | ddragon      | jtdd       | 20fd26784491a8d35a4799cc4227b68a | ff,ff        |
 | ddragon2     | jtdd2      | ee5ff67deb739a89fc27b6fc0ca78e2b | ff,96        |
 | ddragon2b    | jtdd2      | e3726956c80d97b424f254c127e85b7c | ff,96        |
@@ -394,6 +400,7 @@
 | gunsmokej    | jtgunsmk   | ece54e9f24d2e546cb0062f503d184ab | f7,ff        |
 | gunsmokeu    | jtgunsmk   | 030c5381e2e14eeac53111bf66742aea | f7,ff        |
 | gunsmokeuc   | jtgunsmk   | ecd2f603cf9d0520f66c98f81d93da5a | f7,ff        |
+| hamaway      | jts18      | 78169596e29f5efdfdd1ee35ab61ddae | ff,bf        |
 | hbarrel      | jtninja    | c064f3fc2e628fa68953a5a81700539b | ff,bf        |
 | hbarrelu     | jtninja    | 2b1e251a9a99f04b47169625acb208ef | ff,bf        |
 | hcastle      | jtcastle   | fa57e3e98d64b6ec7ae38c38eec37dba | ff,53,ff     |
